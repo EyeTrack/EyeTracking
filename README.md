@@ -1,4 +1,4 @@
-# LSC eye-tracker (Learning Single Canera Eye-Tracker)
+# LSC eye-tracker (Learning Single Camera Eye-Tracker)
 This repo is just for eye track research
 ## Category
 ### Deep Learning
